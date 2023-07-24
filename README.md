@@ -1,4 +1,5 @@
-# NovaDOS
+# NovaDOS                                               
+Created by SAREL and Sfaltrax!
 
 NovaDOS is a minimalist operating system in Python, inspired by MS-DOS, with some additional features.
 
